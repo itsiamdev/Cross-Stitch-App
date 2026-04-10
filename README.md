@@ -21,7 +21,7 @@ Welcome to the **Cross Stitch App**! 🎨 This interactive web application allow
 
 ## 🌐 Live Demo
 
-Check out the live version here: [https://iam269.github.io/Cross-Stitch-App/](https://iam269.github.io/Cross-Stitch-App/)
+Check out the live version here: [https://itsiamdev.github.io/Cross-Stitch-App/](https://itsiamdev.github.io/Cross-Stitch-App/)
 
 ## 🛠️ Technologies Used
 
